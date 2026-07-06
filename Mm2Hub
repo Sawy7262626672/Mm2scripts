@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjYwODk4OTkwLTUzYjgtNDA1Yy1iNjNkLTBlZDgyMmQ3NmVkMSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJuZXd1aSJ9fQ"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sawy7262626672/Mm2scripts/refs/heads/main/Mm2Hub.lua"))()
